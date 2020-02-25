@@ -116,6 +116,7 @@
     "mathjax": "2.7.7",
     "moment": "2.22.2",
     "nl.kingsquare.cordova.background-audio": "1.0.1",
+    "node-sass": "^4.13.1",
     "phonegap-plugin-multidex": "1.0.0",
     "phonegap-plugin-push": "git+https://github.com/moodlemobile/phonegap-plugin-push.git#moodle-v3",
     "promise.prototype.finally": "3.1.0",
